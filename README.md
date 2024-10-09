@@ -59,20 +59,6 @@ To achieve these objectives, the following analyses and visualizations have been
 - **IDE**: Jupyter Notebook
 - **Data Cleaning**: Python libraries for preprocessing
 
-## How to Run the Project
-
-1. Clone the repository: 
-   ```
-   git clone https://github.com/yourusername/hr-analytics-project.git
-   ```
-2. Install the required packages:
-   ```
-   pip install -r requirements.txt
-   ```
-3. Run the Jupyter Notebook:
-   ```
-   jupyter notebook HR_Analytics.ipynb
-   ```
 
 ## Conclusion
 
